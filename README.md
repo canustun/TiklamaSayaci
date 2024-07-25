@@ -1,0 +1,2 @@
+# TiklamaSayaci
+Tıklama Sayacı
